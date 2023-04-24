@@ -1,0 +1,7 @@
+,Name,Amount,Months
+0,Medical Insurance,16000,[3]
+1,Car Insurance,6000,[11]
+2,Internet,2700,"[1, 5, 9]"
+3,LIC,5020,"[6, 12]"
+4,GYM Fee,4500,"[2, 5, 8, 11]"
+5,Metro Mall,5000,"[4, 7, 10, 1]"

@@ -1,0 +1,5 @@
+install.packages('reticulate')
+library(reticulate)
+reticulate::source_python('calci.py')
+use_virtualenv('F:/Projects/expense-planner/venv',required = T)
+renv::snapshot()
